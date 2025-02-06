@@ -24,7 +24,7 @@ function ExpensesOverview() {
       })}
     >
       <BottomTabs.Screen 
-        name='RecentExpenses' 
+        name='RecentExpenses'
         component={RecentExpenses}
         options={{
           title: 'Recent Expenses',
